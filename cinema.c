@@ -1,3 +1,8 @@
+/* 
+* Erick Lemmy dos Santos Oliveira 
+* Atividade Programação Imperativa 
+*/
+
 #include <stdio.h>
 #define LIN 14
 #define COL 10

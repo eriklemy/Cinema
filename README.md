@@ -1,17 +1,21 @@
 # Cinema
 Venda de bilhetes
 
+> Programação Imperativa  <br>
+> Erick Lemmy dos Santos Oliveira 
+  
 ### Exercicio 
 Um cinema possui 140 lugares, 14 fileiras com 10 poltronas cada, numeradas de 1 a 140. Elabore um
 programa de venda de bilhetes empregando uma matriz (14x10) como representação dos lugares da
 plateia. Para cada entrada adquirida serão informados o número da poltrona (que será transformado
 em [linha][coluna] para acesso à matriz) e o tipo do ingresso (uma letra, sendo ‘m’ – meia entrada ou ‘i’
-– inteira). Empregue modularização sempre que possível para organizar e reutilizar o código.
+– inteira).
 O programa deverá contar com o seguinte menu de opções:
-0 – sair
-1 – vender ingresso
-2 – mostrar plateia
-3 – mostrar ocupação
+
+> 0 – sair <br>
+> 1 – vender ingresso <br>
+> 2 – mostrar plateia <br>
+> 3 – mostrar ocupação
 
 ## Execução 
 ### Comprando Ingresso
